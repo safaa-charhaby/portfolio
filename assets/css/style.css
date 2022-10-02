@@ -139,7 +139,6 @@ h6 {
 @media (min-width: 991px) {
   .mobile-nav{
     display: none;
-    padding: 0;
     visibility: hidden;
     overflow: hidden;
   }
@@ -258,7 +257,7 @@ h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #0000;
+  color: #fff;
   padding-top: 50px;
 }
 
