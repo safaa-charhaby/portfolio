@@ -231,6 +231,12 @@ h6 {
 /**
 * Mobile Navigation 
 */
+@media (max-width: 768px) {
+.nav-menu {
+  margin-left: 100px;
+  margin-top: 10px;
+  }
+}
 .mobile-nav{
   display: block;
   margin-left: 110px;
